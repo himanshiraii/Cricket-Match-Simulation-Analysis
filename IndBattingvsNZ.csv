@@ -1,0 +1,294 @@
+,PlayerName,Score,Wicket,DismissalWay,Ball
+0,Rohit Sharma,4,No,No,0.1
+1,Rohit Sharma,0,No,No,0.2
+2,Rohit Sharma,0,No,No,0.3
+3,Rohit Sharma,0,No,No,0.4
+4,Rohit Sharma,0,No,No,0.5
+5,Rohit Sharma,0,No,No,0.6
+6,Extras,1,No,No,1.1.n
+7,Rohit Sharma,2,No,No,1.1
+8,Rohit Sharma,0,No,No,1.2
+9,Rohit Sharma,1,No,No,1.3
+10,Shubman Gill (c),0,No,No,1.4
+11,Shubman Gill (c),4,No,No,1.5
+12,Shubman Gill (c),1,No,No,1.6
+13,Shubman Gill (c),0,No,No,2.1
+14,Shubman Gill (c),0,No,No,2.2
+15,Shubman Gill (c),0,No,No,2.3
+16,Shubman Gill (c),4,No,No,2.4
+17,Shubman Gill (c),4,No,No,2.5
+18,Shubman Gill (c),1,No,No,2.6
+19,Shubman Gill (c),0,No,No,3.1
+20,Shubman Gill (c),1,No,No,3.2
+21,Rohit Sharma,0,No,No,3.3
+22,Rohit Sharma,0,No,No,3.4
+23,Rohit Sharma,4,No,No,3.5
+24,Rohit Sharma,8,No,No,3.6
+25,Rohit Sharma,0,Yes,caught,3.6
+26,Shubman Gill (c),1,No,No,4.1
+27,Virat Kohli,0,No,No,4.2
+28,Virat Kohli,0,No,No,4.3
+29,Virat Kohli,0,No,No,4.4
+30,Virat Kohli,0,No,No,4.5
+31,Virat Kohli,0,No,No,4.6
+32,Extras,1,No,No,5.1.w
+33,Shubman Gill (c),0,No,No,5.1
+34,Shubman Gill (c),1,No,No,5.2
+35,Virat Kohli,1,No,No,5.3
+36,Shubman Gill (c),1,No,No,5.4
+37,Virat Kohli,6,No,No,5.5
+38,Virat Kohli,1,No,No,5.6
+39,Virat Kohli,0,No,No,6.1
+40,Virat Kohli,1,No,No,6.2
+41,Shubman Gill (c),4,No,No,6.3
+42,Shubman Gill (c),8,No,No,6.4
+43,Shubman Gill (c),0,Yes,bowled,6.4
+44,Shreyas Iyer (vc),0,No,No,6.5
+45,Shreyas Iyer (vc),0,No,No,6.6
+46,Virat Kohli,0,No,No,7.1
+47,Virat Kohli,0,No,No,7.2
+48,Virat Kohli,1,No,No,7.3
+49,Shreyas Iyer (vc),1,No,No,7.4
+50,Virat Kohli,4,No,No,7.5
+51,Virat Kohli,0,No,No,7.6
+52,Shreyas Iyer (vc),1,No,No,8.1
+53,Virat Kohli,0,No,No,8.2
+54,Virat Kohli,4,No,No,8.3
+55,Virat Kohli,0,No,No,8.4
+56,Virat Kohli,0,No,No,8.5
+57,Virat Kohli,1,No,No,8.6
+58,Virat Kohli,0,No,No,9.1
+59,Virat Kohli,0,No,No,9.2
+60,Virat Kohli,4,No,No,9.3
+61,Virat Kohli,4,No,No,9.4
+62,Virat Kohli,0,No,No,9.5
+63,Virat Kohli,1,No,No,9.6
+64,Virat Kohli,0,No,No,10.1
+65,Virat Kohli,1,No,No,10.2
+66,Shreyas Iyer (vc),0,No,No,10.3
+67,Shreyas Iyer (vc),0,No,No,10.4
+68,Shreyas Iyer (vc),0,No,No,10.5
+69,Shreyas Iyer (vc),1,No,No,10.6
+70,Shreyas Iyer (vc),0,No,No,11.1
+71,Shreyas Iyer (vc),8,No,No,11.2
+72,Shreyas Iyer (vc),0,Yes,caught,11.2
+73,KL Rahul (wk),1,No,No,11.3
+74,Virat Kohli,1,No,No,11.4
+75,KL Rahul (wk),0,No,No,11.5
+76,KL Rahul (wk),0,No,No,11.6
+77,Virat Kohli,0,No,No,12.1
+78,Virat Kohli,1,No,No,12.2
+79,KL Rahul (wk),0,No,No,12.3
+80,KL Rahul (wk),0,No,No,12.4
+81,KL Rahul (wk),8,No,No,12.5
+82,KL Rahul (wk),0,Yes,caught,12.5
+83,Nitish Kumar Reddy,0,No,No,12.6
+84,Virat Kohli,1,No,No,13.1
+85,Nitish Kumar Reddy,4,No,No,13.2
+86,Nitish Kumar Reddy,0,No,No,13.3
+87,Nitish Kumar Reddy,1,No,No,13.4
+88,Virat Kohli,0,No,No,13.5
+89,Virat Kohli,1,No,No,13.6
+90,Virat Kohli,1,No,No,14.1
+91,Nitish Kumar Reddy,0,No,No,14.2
+92,Nitish Kumar Reddy,1,No,No,14.3
+93,Virat Kohli,1,No,No,14.4
+94,Nitish Kumar Reddy,0,No,No,14.5
+95,Nitish Kumar Reddy,1,No,No,14.6
+96,Nitish Kumar Reddy,0,No,No,15.1
+97,Nitish Kumar Reddy,0,No,No,15.2
+98,Nitish Kumar Reddy,0,No,No,15.3
+99,Nitish Kumar Reddy,0,No,No,15.4
+100,Nitish Kumar Reddy,1,No,No,15.5
+101,Virat Kohli,0,No,No,15.6
+102,Nitish Kumar Reddy,0,No,No,16.1
+103,Nitish Kumar Reddy,1,No,No,16.2
+104,Virat Kohli,0,No,No,16.3
+105,Virat Kohli,2,No,No,16.4
+106,Virat Kohli,1,No,No,16.5
+107,Nitish Kumar Reddy,1,No,No,16.6
+108,Nitish Kumar Reddy,1,No,No,17.1
+109,Virat Kohli,1,No,No,17.2
+110,Nitish Kumar Reddy,0,No,No,17.3
+111,Nitish Kumar Reddy,1,No,No,17.4
+112,Virat Kohli,1,No,No,17.5
+113,Nitish Kumar Reddy,1,No,No,17.6
+114,Nitish Kumar Reddy,1,No,No,18.1
+115,Virat Kohli,1,No,No,18.2
+116,Nitish Kumar Reddy,1,No,No,18.3
+117,Virat Kohli,1,No,No,18.4
+118,Nitish Kumar Reddy,0,No,No,18.5
+119,Nitish Kumar Reddy,1,No,No,18.6
+120,Nitish Kumar Reddy,4,No,No,19.1
+121,Nitish Kumar Reddy,0,No,No,19.2
+122,Extras,1,No,No,19.3.w
+123,Nitish Kumar Reddy,1,No,No,19.3
+124,Virat Kohli,1,No,No,19.4
+125,Nitish Kumar Reddy,1,No,No,19.5
+126,Virat Kohli,2,No,No,19.6
+127,Nitish Kumar Reddy,1,No,No,20.1
+128,Virat Kohli,1,No,No,20.2
+129,Nitish Kumar Reddy,0,No,No,20.3
+130,Nitish Kumar Reddy,1,No,No,20.4
+131,Virat Kohli,1,No,No,20.5
+132,Nitish Kumar Reddy,1,No,No,20.6
+133,Nitish Kumar Reddy,1,No,No,21.1
+134,Virat Kohli,1,No,No,21.2
+135,Nitish Kumar Reddy,1,No,No,21.3
+136,Virat Kohli,1,No,No,21.4
+137,Nitish Kumar Reddy,0,No,No,21.5
+138,Nitish Kumar Reddy,1,No,No,21.6
+139,Nitish Kumar Reddy,1,No,No,22.1
+140,Virat Kohli,1,No,No,22.2
+141,Nitish Kumar Reddy,1,No,No,22.3
+142,Virat Kohli,1,No,No,22.4
+143,Nitish Kumar Reddy,0,No,No,22.5
+144,Nitish Kumar Reddy,0,No,No,22.6
+145,Virat Kohli,1,No,No,23.1
+146,Nitish Kumar Reddy,0,No,No,23.2
+147,Nitish Kumar Reddy,1,No,No,23.3
+148,Virat Kohli,1,No,No,23.4
+149,Nitish Kumar Reddy,0,No,No,23.5
+150,Nitish Kumar Reddy,2,No,No,23.6
+151,Virat Kohli,1,No,No,24.1
+152,Nitish Kumar Reddy,1,No,No,24.2
+153,Virat Kohli,0,No,No,24.3
+154,Virat Kohli,4,No,No,24.4
+155,Virat Kohli,1,No,No,24.5
+156,Nitish Kumar Reddy,1,No,No,24.6
+157,Nitish Kumar Reddy,1,No,No,25.1
+158,Virat Kohli,3,No,No,25.2
+159,Nitish Kumar Reddy,6,No,No,25.3
+160,Nitish Kumar Reddy,0,No,No,25.4
+161,Nitish Kumar Reddy,1,No,No,25.5
+162,Virat Kohli,1,No,No,25.6
+163,Virat Kohli,1,No,No,26.1
+164,Nitish Kumar Reddy,1,No,No,26.2
+165,Virat Kohli,1,No,No,26.3
+166,Nitish Kumar Reddy,6,No,No,26.4
+167,Nitish Kumar Reddy,0,No,No,26.5
+168,Nitish Kumar Reddy,1,No,No,26.6
+169,Nitish Kumar Reddy,0,No,No,27.1
+170,Nitish Kumar Reddy,2,No,No,27.2
+171,Nitish Kumar Reddy,8,No,No,27.3
+172,Nitish Kumar Reddy,0,Yes,caught,27.3
+173,Ravindra Jadeja,0,No,No,27.4
+174,Ravindra Jadeja,0,No,No,27.5
+175,Ravindra Jadeja,1,No,No,27.6
+176,Ravindra Jadeja,1,No,No,28.1
+177,Virat Kohli,0,No,No,28.2
+178,Virat Kohli,0,No,No,28.3
+179,Virat Kohli,1,No,No,28.4
+180,Ravindra Jadeja,1,No,No,28.5
+181,Virat Kohli,1,No,No,28.6
+182,Virat Kohli,1,No,No,29.1
+183,Ravindra Jadeja,0,No,No,29.2
+184,Ravindra Jadeja,2,No,No,29.3
+185,Ravindra Jadeja,1,No,No,29.4
+186,Virat Kohli,1,No,No,29.5
+187,Ravindra Jadeja,1,No,No,29.6
+188,Ravindra Jadeja,1,No,No,30.1
+189,Virat Kohli,1,No,No,30.2
+190,Ravindra Jadeja,1,No,No,30.3
+191,Virat Kohli,0,No,No,30.4
+192,Virat Kohli,1,No,No,30.5
+193,Ravindra Jadeja,1,No,No,30.6
+194,Ravindra Jadeja,1,No,No,31.1
+195,Virat Kohli,0,No,No,31.2
+196,Virat Kohli,1,No,No,31.3
+197,Ravindra Jadeja,0,No,No,31.4
+198,Ravindra Jadeja,1,No,No,31.5
+199,Virat Kohli,0,No,No,31.6
+200,Ravindra Jadeja,8,No,No,32.1
+201,Ravindra Jadeja,0,Yes,caught,32.1
+202,Harshit Rana,0,No,No,32.2
+203,Harshit Rana,0,No,No,32.3
+204,Harshit Rana,0,No,No,32.4
+205,Harshit Rana,0,No,No,32.5
+206,Harshit Rana,1,No,No,32.6
+207,Harshit Rana,0,No,No,33.1
+208,Harshit Rana,0,No,No,33.2
+209,Harshit Rana,1,No,No,33.3
+210,Virat Kohli,1,No,No,33.4
+211,Harshit Rana,0,No,No,33.5
+212,Harshit Rana,0,No,No,33.6
+213,Virat Kohli,1,No,No,34.1
+214,Harshit Rana,0,No,No,34.2
+215,Harshit Rana,0,No,No,34.3
+216,Harshit Rana,1,No,No,34.4
+217,Virat Kohli,4,No,No,34.5
+218,Virat Kohli,0,No,No,34.6
+219,Harshit Rana,2,No,No,35.1
+220,Harshit Rana,1,No,No,35.2
+221,Virat Kohli,1,No,No,35.3
+222,Harshit Rana,4,No,No,35.4
+223,Harshit Rana,0,No,No,35.5
+224,Harshit Rana,0,No,No,35.6
+225,Virat Kohli,0,No,No,36.1
+226,Virat Kohli,4,No,No,36.2
+227,Virat Kohli,1,No,No,36.3
+228,Harshit Rana,6,No,No,36.4
+229,Harshit Rana,0,No,No,36.5
+230,Harshit Rana,0,No,No,36.6
+231,Virat Kohli,6,No,No,37.1
+232,Virat Kohli,0,No,No,37.2
+233,Virat Kohli,4,No,No,37.3
+234,Virat Kohli,0,No,No,37.4
+235,Virat Kohli,1,No,No,37.5
+236,Extras,1,No,No,37.6.w
+237,Harshit Rana,1,No,No,37.6
+238,Harshit Rana,1,No,No,38.1
+239,Virat Kohli,1,No,No,38.2
+240,Harshit Rana,0,No,No,38.3
+241,Harshit Rana,0,No,No,38.4
+242,Harshit Rana,0,No,No,38.5
+243,Harshit Rana,0,No,No,38.6
+244,Virat Kohli,2,No,No,39.1
+245,Virat Kohli,1,No,No,39.2
+246,Harshit Rana,4,No,No,39.3
+247,Harshit Rana,0,No,No,39.4
+248,Harshit Rana,1,No,No,39.5
+249,Virat Kohli,1,No,No,39.6
+250,Virat Kohli,0,No,No,40.1
+251,Virat Kohli,1,No,No,40.2
+252,Harshit Rana,6,No,No,40.3
+253,Harshit Rana,1,No,No,40.4
+254,Virat Kohli,2,No,No,40.5
+255,Virat Kohli,0,No,No,40.6
+256,Harshit Rana,0,No,No,41.1
+257,Harshit Rana,0,No,No,41.2
+258,Extras,1,No,No,41.3.w
+259,Harshit Rana,4,No,No,41.3
+260,Harshit Rana,1,No,No,41.4
+261,Virat Kohli,1,No,No,41.5
+262,Extras,1,No,No,41.6.w
+263,Harshit Rana,1,No,No,41.6
+264,Harshit Rana,4,No,No,42.1
+265,Harshit Rana,1,No,No,42.2
+266,Extras,1,No,No,42.3.w
+267,Virat Kohli,6,No,No,42.3
+268,Virat Kohli,2,No,No,42.4
+269,Virat Kohli,1,No,No,42.5
+270,Harshit Rana,6,No,No,42.6
+271,Virat Kohli,1,No,No,43.1
+272,Harshit Rana,6,No,No,43.2
+273,Harshit Rana,0,No,No,43.3
+274,Harshit Rana,8,No,No,43.4
+275,Harshit Rana,0,Yes,caught,43.4
+276,Mohd Siraj,8,No,No,43.5
+277,Mohd Siraj,0,Yes,caught,43.5
+278,Kuldeep Yadav,0,No,No,43.6
+279,Virat Kohli,0,No,No,44.1
+280,Virat Kohli,0,No,No,44.2
+281,Virat Kohli,1,No,No,44.3
+282,Kuldeep Yadav,1,No,No,44.4
+283,Virat Kohli,1,No,No,44.5
+284,Kuldeep Yadav,4,No,No,44.6
+285,Virat Kohli,4,No,No,45.1
+286,Virat Kohli,4,No,No,45.2
+287,Virat Kohli,0,No,No,45.3
+288,Virat Kohli,8,No,No,45.4
+289,Virat Kohli,0,Yes,caught,45.4
+290,Arshdeep Singh,4,No,No,45.5
+291,Kuldeep Yadav,8,No,No,45.6
+292,Kuldeep Yadav,0,Yes,runout,45.6
